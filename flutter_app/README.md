@@ -66,10 +66,4 @@ The app organizes concepts into **tabs**, with each tab covering a specific topi
 
 ---
 
-## 📸 Screenshots (Optional)
-> *(Add screenshots of your app UI here for better presentation)*  
-
----
-
-## 👨‍💻 Author
-Developed by **[Your Name]**  
+ 
